@@ -1,5 +1,5 @@
 # Rakamin-KimiaFarma
-Rakaman PBI Final Project
+Project Based Internship: Kimia Farma - Big Data Analytics
 
 # Kimia Farma Business Performance Analysis 2020–2023
 This project analyzes Kimia Farma’s business performance from 2020 to 2023 using data integrated through Google BigQuery. After importing and aggregating four datasets into a single analytical table containing key attributes such as transaction_id, date, branch_id, and branch_name, the data was connected to Google Looker Studio as the primary visualization source. The resulting interactive dashboard presents financial, operational, and branch-level insights over the four-year period, with a design tailored to support clear trend identification and decision-oriented interpretation.
@@ -28,6 +28,8 @@ The project began by importing the four raw CSV datasets into Google BigQuery, w
 
 ## Features of Dashboard
 The dashboard provides an interactive environment for exploring business performance through both high-level KPIs and detailed breakdowns. Users can view total net sales, net profit, and total transactions through scorecards, while applying filters such as province, product category, branch rating, and date range to refine the analysis. The dashboard includes a series of visualizations such as year-over-year revenue trends, monthly sales performance, top 10 provincial branches by net sales and transaction volume, top product performance, and a geo heat map of profit distribution across Indonesia. Additionally, a comparative ratings table highlights branches with strong customer ratings despite low transaction activity, enabling deeper operational insight.
+
+
 
 ---
 
