@@ -148,7 +148,9 @@ These improvements will significantly increase the analytical depth, operational
 
 ## Dashboard
 <img width="818" height="693" alt="Screenshot 2025-11-28 at 21 46 19" src="https://github.com/user-attachments/assets/0ce9df40-a597-4a0a-96a9-8ef5d9a8f8d7" />
-[Presentation Slides](https://docs.google.com/presentation/d/1qC73feR2rNQs8PdJdSiFVJTu4DBnKPm1M-fKldYvyVM/edit?slide=id.p11#slide=id.p11)
+
+### Presentation Slides
+(https://docs.google.com/presentation/d/1qC73feR2rNQs8PdJdSiFVJTu4DBnKPm1M-fKldYvyVM/edit?slide=id.p11#slide=id.p11)
 
 
 
